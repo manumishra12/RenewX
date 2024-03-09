@@ -2,18 +2,21 @@
 
 <B>RenewX is an AI-based machine that automatically segregates mixed construction waste and sells it to industries for recycling purposes. This project aims to contribute to waste management and promote sustainable practices in the construction industry.</B>
 
-```
-RenewX, an AI-based machine, segregates mixed construction waste for recycling.
-It aims to reduce landfill waste, promote sustainability,and improve recycling efficiency.
+<I>
+  - RenewX, an AI-based machine, segregates mixed construction waste for recycling.<br>
+  - It aims to reduce landfill waste, promote sustainability,and improve recycling efficiency.<br>
+  - Plans include enhancing waste segregation precision and integrating with broader waste management systems.<br>
+  - RenewX contributes to environmental health by reducing pollution and resource depletion.<br>
+</I>
 
-Plans include enhancing waste segregation precision and integrating with broader waste management systems.
-RenewX contributes to environmental health by reducing pollution and resource depletion.
 
-```
+<br>
 
 [![RenewX Demo Video](Thumbnail_main.png)](https://youtu.be/9h1e3hOQH7E)
 
-
+```
+Link: https://youtu.be/9h1e3hOQH7E
+```
 
 
 | PROTOTYPE 
@@ -93,7 +96,5 @@ Contributions to RenewX are welcome! To contribute, follow these steps:
 
 RenewX is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-```
-Link: https://youtu.be/9h1e3hOQH7E
-```
+
 
