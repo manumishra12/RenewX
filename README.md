@@ -13,7 +13,7 @@ RenewX contributes to environmental health by reducing pollution and resource de
 
 [![RenewX Demo Video](Thumbnail_main.png)](https://youtu.be/9h1e3hOQH7E)
 
-Link: https://youtu.be/9h1e3hOQH7E
+
 
 
 | PROTOTYPE 
@@ -93,4 +93,7 @@ Contributions to RenewX are welcome! To contribute, follow these steps:
 
 RenewX is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
+```
+Link: https://youtu.be/9h1e3hOQH7E
+```
 
