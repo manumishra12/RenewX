@@ -14,7 +14,7 @@ Link: https://youtu.be/9h1e3hOQH7E
 
 | WEBSITE
 | ----------- |
-| <img src="RenewX.png" alt="Small Image" width="700" height="350"> |
+| <img src="RenewX Website .gif" alt="Small Image" width="700" height="350"> |
 
 
 | Analysis | Demonstration |
