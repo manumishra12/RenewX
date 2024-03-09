@@ -19,7 +19,7 @@ Link: https://youtu.be/9h1e3hOQH7E
 
 | Analysis | Demonstration |
 |---------|---------|
-| ![Video 1]((https://github.com/manumishra12/RenewX/blob/main/Analysis%20.mp4)) | ![Video 2](https://github.com/manumishra12/RenewX/blob/main/Demonstration_s.mp4) |
+|Analysis.mp4|Demonstration_s.mp4|
 
 
 
