@@ -19,7 +19,7 @@ Link: https://youtu.be/9h1e3hOQH7E
 
 | Analysis | Demonstration |
 |---------|---------|
-|<img src="Analysis Video.gif" alt="Small GIF" width="200" height="150"> |Demonstration_s.mp4|
+|<img src="Analysis Video.gif" alt="Small GIF" width="400" height="300"> |<img src="Demonstration_main.gif" alt="Small GIF" width="400" height="300">|
 
 
 
