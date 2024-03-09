@@ -17,9 +17,9 @@ Link: https://youtu.be/9h1e3hOQH7E
 | <img src="RenewX.png" alt="Small Image" width="700" height="350"> |
 
 
-| Analysis | Demonstration | RenewX
-|---------|---------|---------|
-| ![Video 1](video1_thumbnail.png) | ![Video 2](video2_thumbnail.png) | ![Video 2](video2_thumbnail.png)
+| Analysis | Demonstration |
+|---------|---------|
+| ![Video 1]((https://github.com/manumishra12/RenewX/blob/main/Analysis%20.mp4)) | ![Video 2](https://github.com/manumishra12/RenewX/blob/main/Demonstration_s.mp4) |
 
 
 
