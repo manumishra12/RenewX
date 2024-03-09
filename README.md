@@ -10,6 +10,17 @@ RenewX is an AI-based machine that automatically segregates mixed construction w
 | <img src="Final.png" alt="Small Image" width="700" height="350"> |
 
 
+| RenewX |
+| --------- |
+| <img src="small_gif.gif" alt="Small GIF" width="200" height="150"> |
+
+
+| Analysis | Demonstration |
+|---------|---------|
+| ![Video 1](video1_thumbnail.png) | ![Video 2](video2_thumbnail.png) |
+
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
