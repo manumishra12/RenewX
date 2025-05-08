@@ -20,6 +20,14 @@ Code: https://drive.google.com/drive/folders/1d1CBfWzR7UXxkHVhXZ4-KnHZ7CHohioH?u
 ```
 
 
+<img src="patent.png" alt="Small Image" width="700" height="550">
+
+<div><b>Application no: 202441064693</b></div>
+<div><b>Application name: A System and Method for Automated Waste Segregation</b></div>
+
+<br>
+<br>
+
 | PROTOTYPE 
 | ----------- |
 | <img src="Final.png" alt="Small Image" width="700" height="350"> |
